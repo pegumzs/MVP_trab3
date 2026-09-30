@@ -1,6 +1,6 @@
 Sistema de suporte à decisão para triagem de mensagens suspeitas
 
-MVP da disciplina Sistemas de Suporte à Decisão Departamento de Engenharia de Produção, Universidade de Brasília Professor: André Luiz Marques Serrano Aluno(a): Pedro Augusto de Menezes 
+MVP da disciplina Sistemas de Suporte à Decisão Departamento de Engenharia de Produção, Universidade de Brasília  Aluno(a): Pedro Augusto de Menezes 
 
 Este projeto classifica mensagens de texto como golpe ou legítima. A partir da probabilidade de golpe, ele recomenda uma ação: liberar a mensagem, mandar para revisão da equipe de TI ou bloquear. Todo o pipeline, da coleta à análise, está no notebook Projeto_SSD_MVP_Triagem_de_Mensagens.ipynb.
 
